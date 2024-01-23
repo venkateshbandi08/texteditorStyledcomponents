@@ -1,0 +1,24 @@
+.image-style {
+  width: 80%;
+  padding: 100px;
+}
+.text-area {
+  width: 100%;
+  height: 90%;
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  /* padding: 10px;
+  padding-left: 20px; */
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #ffffff;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  padding: 0;
+  margin: 0;
+}
